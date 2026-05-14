@@ -1,0 +1,7 @@
+pyproject.toml
+api/main.py
+stmp.egg-info/PKG-INFO
+stmp.egg-info/SOURCES.txt
+stmp.egg-info/dependency_links.txt
+stmp.egg-info/requires.txt
+stmp.egg-info/top_level.txt
